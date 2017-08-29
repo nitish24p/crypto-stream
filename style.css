@@ -1,0 +1,81 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	//width: 960px;
+	height: 600px;
+}
+
+.wrapper {
+	width: 700px;
+	background-color: #132c40;
+	margin: auto;
+	display: block;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+h1 {
+	color: white;
+}
+
+table {
+	width: 500px;
+	margin: auto;
+	border: white;
+}
+
+th {
+	color: white;
+}
+
+td {
+	text-align: right;
+	color: white;
+}
+
+.Buy {
+	background-color: #3dd2cc;
+}
+
+.Sell {
+	background-color: #c84473;
+}
+
+.Unknown {
+	background-color: #3e6b89;
+}
+
+.source {
+	text-align: left;
+	font-size: 15px;
+	color: white;
+	margin: 10px;
+}
+
+a {
+	color: #eeeeee;
+	font-size: 15px;
+}
+
+a:hover {
+	color: #c84473;
+}
+
+.subs-button {
+	width: 100px;
+	height: 50px;
+	background-color: #3dd2cc;
+	font-size: 12px;
+	margin: 10px;
+}
+
+.unsubs-button {
+	width: 100px;
+	height: 50px;
+	background-color: #c84473;
+	font-size: 12px;
+	margin: 10px;
+}
+
+#message {
+	color: white;
+}
