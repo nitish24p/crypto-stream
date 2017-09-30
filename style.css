@@ -1,7 +1,8 @@
+
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	//width: 960px;
-	height: 600px;
+	//height: 600px;
 }
 
 .wrapper {
@@ -79,3 +80,37 @@ a:hover {
 #message {
 	color: white;
 }
+
+text {
+      fill: #fff;
+    }
+
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #333;
+      shape-rendering: crispEdges;
+    }
+
+    .axis path {
+      stroke: #aaa;
+    }
+
+    .line {
+      fill: none;
+      stroke: #fff;
+      stroke-width: 2px;
+    }
+
+    .data {
+      stroke: #fff;
+      stroke-width: 2px;
+    }
+
+    .average-50 {
+      stroke: #0ff;
+    }
+
+    .average-25 {
+      stroke: #ff0;
+    }

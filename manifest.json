@@ -13,5 +13,5 @@
     "activeTab",
     "https://ajax.googleapis.com/"
   ],
-  "content_security_policy": "script-src 'self' https://ajax.googleapis.com https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.2/socket.io.min.js https://code.jquery.com/jquery-3.1.1.min.js; object-src 'self'"
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.2/socket.io.min.js https://code.jquery.com/jquery-3.1.1.min.js https://d3js.org/d3.v4.min.js https://cdnjs.cloudflare.com/ajax/libs/simplex-noise/2.3.0/simplex-noise.min.js https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js; object-src 'self'"
 }
